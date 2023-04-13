@@ -3,3 +3,5 @@
 
 #ignore vendor directory
 /vendor
+
+composer.lock
